@@ -3,7 +3,7 @@ import React from "react";
 const App: React.FC = () => {
   return (
     <main className="bg-gray-900 text-white min-h-screen font-sans">
-      {/* Square Banner */}
+      
       <div className="w-full flex justify-center pt-8">
         <div className="w-48 h-48 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg flex items-center justify-center shadow-2xl border border-gray-600">
           <h2 className="text-2xl font-bold text-white text-center">Hello World!</h2>

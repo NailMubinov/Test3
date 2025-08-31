@@ -10,6 +10,7 @@ const App: React.FC = () => {
         <h3>Changes made by Bolt</h3>
         <p>Checking if Bolt can pull this correction.</p>
         <p>Correction made by CodeSandbox</p>
+        <p>StackBlitz CORRECTION!</p>
         <p className="mt-4 text-xl text-gray-400">
           Your React application is up and running.
         </p>

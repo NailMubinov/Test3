@@ -11,6 +11,7 @@ const App: React.FC = () => {
         <p>Checking if Bolt can pull this correction.</p>
         <p>Correction made by CodeSandbox</p>
         <p>StackBlitz CORRECTION!</p>
+        <p>Hello, REPLIT!</p>
         <p className="mt-4 text-xl text-gray-400">
           Your React application is up and running.
         </p>

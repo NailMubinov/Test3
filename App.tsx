@@ -9,6 +9,7 @@ const App: React.FC = () => {
           It works! - now FOR Bolt
         </h1>
         <h3>Changes made by Bolt</h3>
+        <p>Checking if Bolt can pull this correction.</p>
         <p className="mt-4 text-xl text-gray-400">
           Your React application is up and running.
         </p>

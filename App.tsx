@@ -6,8 +6,9 @@ const App: React.FC = () => {
     <main className="bg-gray-900 text-white min-h-screen flex items-center justify-center font-sans">
       <div className="text-center p-8 rounded-lg shadow-2xl bg-gray-800 border border-gray-700">
         <h1 className="text-6xl font-extrabold tracking-tight animate-pulse bg-gradient-to-r from-indigo-400 via-purple-500 to-pink-500 bg-clip-text text-transparent">
-          It works!
+          It works! 
         </h1>
+        <h3>Changes made by Bolt</h3>
         <p className="mt-4 text-xl text-gray-400">
           Your React application is up and running.
         </p>

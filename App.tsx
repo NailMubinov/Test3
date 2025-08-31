@@ -27,7 +27,7 @@ const App: React.FC = () => {
           Your React application is up and running.
         </p>
         
-      </div>
+      
     </main>
   );
 };

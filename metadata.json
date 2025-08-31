@@ -1,0 +1,5 @@
+{
+  "name": "It Works App",
+  "description": "A simple web page that displays the text 'It works!'",
+  "requestFramePermissions": []
+}

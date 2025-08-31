@@ -10,7 +10,7 @@ const App: React.FC = () => {
         </div>
       </div>
       
-      {/* Main Content */}
+      
       <div className="flex items-center justify-center pt-8">
         <div className="text-center p-8 rounded-lg shadow-2xl bg-gray-800 border border-gray-700"></div>
       </div>

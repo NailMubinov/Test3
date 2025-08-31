@@ -26,7 +26,7 @@ const App: React.FC = () => {
         <p className="mt-4 text-xl text-gray-400">
           Your React application is up and running.
         </p>
-        </div>
+        
       </div>
     </main>
   );
